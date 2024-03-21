@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4uLpYLEfep6YK6SfmRR77S3TEHzZRXeF3mCsFaHUSRdilmDRsFOpBwbOhF5z+25tbKOZOOV9tkIVTwJBRlhCCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mi\\source\\repos\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mi\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
